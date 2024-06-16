@@ -2,6 +2,8 @@
 ### String 
 ### Numbers 
 
+# Today we are gonna learn String methods
+
 # What is a method in JavaScript
  In JavaScript, methods are used to manipulate objects. They are written in the same way as functions, but they are defined within the object. Methods are usually used to access and manipulate the data stored in an object. For example, you can use the length method to find out the length of a string.
 
